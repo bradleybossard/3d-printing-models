@@ -6,6 +6,11 @@
 
 ### Links
 
+#### Creality Ender 3
+
+[Using OctoPrint with the Creality Ender 3 - howchoo](https://howchoo.com/g/ntg5yzg1odk/using-octoprint-with-the-creality-ender-3-3d-printer)
+
+
 [Essential Mods to Upgrade Your 3D Printer (Maker Select v2) - Let's Print 3D](https://letsprint3d.net/2017/07/14/essential-mods-upgrade-3d-printer/)
 
 [2019 Cura Tutorial - Deep Inside the Cura 3D Slicer Software | All3DP](https://all3dp.com/1/cura-tutorial-software-slicer-cura-3d/)
@@ -19,8 +24,3 @@ https://www.reddit.com/r/3Dprinting/comments/5g491r/start_here_some_helpadvice_f
 
 [16 Best Photogrammetry Software Tools in 2019 (6 are Free) | All3DP](https://all3dp.com/1/best-photogrammetry-software/)
 
-
-### Unzip all *.zips in directory
-```
-for file in $(ls *.zip); do 7z x $file -o*; done;
-```
